@@ -1,0 +1,16 @@
+# Core LangChain libraries for agents
+langchain
+langchain-openai
+langgraph
+
+# System utility tool
+psutil
+
+# Configuration and API key management from .env files
+python-dotenv
+
+# Tavily web search tool
+langchain-tavily
+
+# OpenAI SDK (explicitly listed for clarity)
+openai
