@@ -42,9 +42,10 @@ $ source venv/bin/activate
 This project requires API keys for both OpenAI and Tavily (for web search).
 
 Create a new file in the project root named `.env` and add your keys as follows:
-
+```bash
 OPENAI_API_KEY="sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 TAVILY_API_KEY="tvly-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+```
 
 - Get your OpenAI key from [platform.openai.com](https://platform.openai.com).
 - Get your free Tavily key from [tavily.com](https://tavily.com).
