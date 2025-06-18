@@ -77,3 +77,4 @@ You can easily customize it:
 ## TODO
 - Add other models 
 - Add a GUI
+- Merge mcp mode branch and ship it!
