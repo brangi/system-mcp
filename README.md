@@ -75,5 +75,5 @@ You can easily customize it:
 - **Add New Tools:** Create new functions in `tools.py` and add them to the tool list of the appropriate agent in `agents.py`.
 
 ## TODO
-[] Add other models 
-[] Add a GUI
+- Add other models 
+- Add a GUI
